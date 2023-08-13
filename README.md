@@ -1,5 +1,5 @@
 # pangenomeMetagenomicsNormalizer
-a pangenome metagenomics normalizer, given a  gene ontology based presence and absence and a species file, it first summarizes the count  across the species and then takes the count of the gene ontologies and present a ratioThe higher the ratio the more presence of that ontology across the species.
+i just coded another function an the meaning is that most of the metagenomics pipelines gives the gene ontology and the presence absence but nothing more than that. So i coded this that takes a presence absence file and then sum the presence absence across the species and then divide it with the number of the gene ontology plus child categories included and presents you a ratio. The higher the ratio means that the ontology is distributed well across all the species. 
 
 ```
 pangenomeMetagenomicsNormalize("/Users/gauravsablok/Desktop/CodeCheck/csv_test_datasets/Pangenome.csv")
