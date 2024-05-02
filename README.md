@@ -14,7 +14,7 @@ pangenomeMetagenomicsNormalize("/Users/gauravsablok/Desktop/CodeCheck/csv_test_d
 1657	sodium-dependent phosphate transporter	0.10
 1658	adenine-specific dna-methyltransferase ed	0.25
 ```
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
